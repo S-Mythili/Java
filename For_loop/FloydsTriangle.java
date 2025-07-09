@@ -1,4 +1,3 @@
-package For_loop;
 import java.util.*;
 public class FloydsTriangle {
 
