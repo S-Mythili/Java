@@ -1,4 +1,3 @@
-package while_loop;
 public class Divisibleby235 {
 	public static void main(String[] args) {
 		int count=0;
