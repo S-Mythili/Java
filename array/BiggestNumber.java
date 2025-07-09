@@ -1,4 +1,3 @@
-package array;
 public class BiggestNumber {
 
 	public static void main(String[] arr1) {
