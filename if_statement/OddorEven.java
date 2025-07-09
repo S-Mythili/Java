@@ -1,4 +1,3 @@
-package if_statement;
 import java.util.Scanner;
 public class OddorEven {
 	public static void main(String[] args) {
