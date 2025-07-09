@@ -1,5 +1,3 @@
-package basicprograms;
-
 public class SumofTwoNum {
 	public static void main(String[] nums) {
 		int num1=Integer.parseInt(nums[0]);
