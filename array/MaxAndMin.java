@@ -1,4 +1,3 @@
-package array;
 import java.util.Scanner;
 public class MaxAndMin {
 	public static void main(String[] args) {
