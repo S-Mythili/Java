@@ -1,4 +1,3 @@
-package array;
 import java.util.Scanner;
 public class SumAndAverage {
 	public static void main(String[] args) {
