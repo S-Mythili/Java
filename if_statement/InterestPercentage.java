@@ -1,4 +1,3 @@
-package if_statement;
 import java.util.*;
 public class InterestPercentage {
 	public static void main(String[] args) {
