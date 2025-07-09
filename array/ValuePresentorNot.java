@@ -1,4 +1,3 @@
-package array;
 import java.util.Scanner;
 public class ValuePresentorNot {
 	public static void main(String[] args) {
