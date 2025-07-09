@@ -1,4 +1,3 @@
-package if_statement;
 import java.util.*;
 public class AlphabetCase {
 
