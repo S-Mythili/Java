@@ -1,4 +1,3 @@
-package while_loop;
 import java.util.*;
 public class ReverseNum {
 
