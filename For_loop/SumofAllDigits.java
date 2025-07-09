@@ -1,4 +1,3 @@
-package For_loop;
 import java.util.Scanner;
 public class SumofAllDigits {
 
