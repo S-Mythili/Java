@@ -1,4 +1,3 @@
-package switch_statement;
 import java.util.*;
 public class Month_name {
 
